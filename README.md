@@ -1,4 +1,4 @@
-Problem Statement
+# Problem Statement
 
 In the fast-paced world of legal proceedings, thorough preparation is crucial. The goal of this project is to develop an AI-powered application that distills a complex legal document—“Amicus Brief on behalf of Mississippi, Alabama, Arkansas”—to identify the top 10 key items pivotal to the case.
 
@@ -10,7 +10,7 @@ Provide precise references, including page numbers and line numbers, to quickly 
 
 Enable the attorney to focus on critical aspects and prepare strategically.
 
-Project Overview
+# Project Overview
 
 The application uses Natural Language Processing (NLP) and Machine Learning techniques to:
 
